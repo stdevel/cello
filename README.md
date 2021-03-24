@@ -1,6 +1,6 @@
 # cello
 
-C program to print **Hello World**
+C program to print **Hello World**.
 
 ## Manual Building
 
